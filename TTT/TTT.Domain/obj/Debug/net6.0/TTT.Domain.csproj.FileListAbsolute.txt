@@ -1,0 +1,15 @@
+C:\Users\yyatsuu\source\repos\TTT\TTT.Domain\bin\Debug\net6.0\TTT.Domain.deps.json
+C:\Users\yyatsuu\source\repos\TTT\TTT.Domain\bin\Debug\net6.0\TTT.Domain.dll
+C:\Users\yyatsuu\source\repos\TTT\TTT.Domain\bin\Debug\net6.0\TTT.Domain.pdb
+C:\Users\yyatsuu\source\repos\TTT\TTT.Domain\obj\Debug\net6.0\TTT.Domain.csproj.AssemblyReference.cache
+C:\Users\yyatsuu\source\repos\TTT\TTT.Domain\obj\Debug\net6.0\TTT.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yyatsuu\source\repos\TTT\TTT.Domain\obj\Debug\net6.0\TTT.Domain.AssemblyInfoInputs.cache
+C:\Users\yyatsuu\source\repos\TTT\TTT.Domain\obj\Debug\net6.0\TTT.Domain.AssemblyInfo.cs
+C:\Users\yyatsuu\source\repos\TTT\TTT.Domain\obj\Debug\net6.0\TTT.Domain.csproj.CoreCompileInputs.cache
+C:\Users\yyatsuu\source\repos\TTT\TTT.Domain\obj\Debug\net6.0\TTT.Domain.dll
+C:\Users\yyatsuu\source\repos\TTT\TTT.Domain\obj\Debug\net6.0\refint\TTT.Domain.dll
+C:\Users\yyatsuu\source\repos\TTT\TTT.Domain\obj\Debug\net6.0\TTT.Domain.pdb
+C:\Users\yyatsuu\source\repos\TTT\TTT.Domain\obj\Debug\net6.0\ref\TTT.Domain.dll
+C:\Users\yyatsuu\source\repos\TTT\TTT.Domain\bin\Debug\net6.0\TTT.Data.dll
+C:\Users\yyatsuu\source\repos\TTT\TTT.Domain\bin\Debug\net6.0\TTT.Data.pdb
+C:\Users\yyatsuu\source\repos\TTT\TTT.Domain\obj\Debug\net6.0\TTT.Domain.csproj.CopyComplete
