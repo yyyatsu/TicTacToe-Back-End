@@ -1,0 +1,12 @@
+C:\Users\yyatsuu\source\repos\TTT.Data\bin\Debug\net6.0\TTT.Data.deps.json
+C:\Users\yyatsuu\source\repos\TTT.Data\bin\Debug\net6.0\TTT.Data.dll
+C:\Users\yyatsuu\source\repos\TTT.Data\bin\Debug\net6.0\TTT.Data.pdb
+C:\Users\yyatsuu\source\repos\TTT.Data\obj\Debug\net6.0\TTT.Data.csproj.AssemblyReference.cache
+C:\Users\yyatsuu\source\repos\TTT.Data\obj\Debug\net6.0\TTT.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yyatsuu\source\repos\TTT.Data\obj\Debug\net6.0\TTT.Data.AssemblyInfoInputs.cache
+C:\Users\yyatsuu\source\repos\TTT.Data\obj\Debug\net6.0\TTT.Data.AssemblyInfo.cs
+C:\Users\yyatsuu\source\repos\TTT.Data\obj\Debug\net6.0\TTT.Data.csproj.CoreCompileInputs.cache
+C:\Users\yyatsuu\source\repos\TTT.Data\obj\Debug\net6.0\TTT.Data.dll
+C:\Users\yyatsuu\source\repos\TTT.Data\obj\Debug\net6.0\refint\TTT.Data.dll
+C:\Users\yyatsuu\source\repos\TTT.Data\obj\Debug\net6.0\TTT.Data.pdb
+C:\Users\yyatsuu\source\repos\TTT.Data\obj\Debug\net6.0\ref\TTT.Data.dll
